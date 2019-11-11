@@ -4,7 +4,7 @@ title: '本次博客搭建心得'
 subtitle: 'GitHub page + jekyll搭建博客简单教程'
 date: 2019-011-10
 categories: 博客搭建
-cover: 'https://i.loli.net/2019/11/10/gvXIRm9SlLjWPhd.jpg'
+cover: ''
 tags: 博客搭建
 ---
 心血来潮想搭建一个博客，平台来来回回选了好几个，多多少少都有点广告影响阅读，寻觅过程中知道了GitHub page这个神器，于是开始了填坑之旅，写个文章记录下心得。
